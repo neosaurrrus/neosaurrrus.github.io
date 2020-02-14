@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "All about the SQL"
-date:       2020-02-14 01:03:45 +0000
+date:       2020-02-13 20:03:46 -0500
 permalink:  all_about_the_sql
 ---
 
@@ -563,7 +563,7 @@ SELECT employee, SUM(bonus) FROM employee_bonus
 GROUP BY employee HAVING SUM(bonus) > 1000;
 ``` 
 
-This allows the above to work which wouldnt with WHERE. IT also is called at a different point of hte statement:
+This allows the above to work which wouldnt with WHERE. IT also is called at a different point of the statement:
 
 ```sql
 SELECT
@@ -576,6 +576,4 @@ HAVING
 ORDER BY
 LIMIT
 ```
-# Enter your title here
 
-The content of your blog post goes here.
