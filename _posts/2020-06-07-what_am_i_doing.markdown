@@ -1,12 +1,12 @@
 ---
 layout: post
-title:      "What am I doing?"
-date:       2020-06-07 21:04:41 +0000
+title:      "A Rails Project? What am I doing?"
+date:       2020-06-07 17:04:42 -0400
 permalink:  what_am_i_doing
 ---
 
 
-This blog post goes over how I built a Rails app from scratch to finish. This is for a FlatIron school project but I chose to make something that I want to exist in the world.
+This post goes over how I built a Rails app from scratch to finish. This is for the  FlatIron school Rails project but I chose to make something that I want to exist in the world.
 
 At time of writing we are all forced to stay home due to COVID, there is no restaurants open so I have been cooking alot more. However, getting ingredients is a pain due to long queues and limited stock in stores. This means that when I want to cook, I often lack the ingredients the recipie is asking for.
 
