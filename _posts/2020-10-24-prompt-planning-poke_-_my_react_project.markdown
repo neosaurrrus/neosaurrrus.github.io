@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Prompt-Planning-Poke - My React Project"
-date:       2020-10-24 08:23:34 +0000
+title:      "Prompt-Planning-Poker - My React Project"
+date:       2020-10-24 04:23:34 -0400
 permalink:  prompt-planning-poke_-_my_react_project
 ---
 
