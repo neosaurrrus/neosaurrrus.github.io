@@ -48,13 +48,13 @@ Nothing too hardcore here. We want to give the plan a name so people know what i
 
 2. Empty Plan
 
-![Empty Plan](./pics/59/2-empty-plan.png)
+![Empty Plan](https://github.com/neosaurrrus/blog-entries/blob/master/pics/59/2-empty-plan.png)
 
 Once created we see the main page of the app. Using React Router, a unique URL is generated for the plan so that it can be shared with other team members. There is isn't much else going on till we...
 
 3. Add Stories
 
-![Add Stories](./pics/59/3-add-story.png)
+![Add Stories](https://github.com/neosaurrrus/blog-entries/blob/master/pics/59/3-add-story.png)
 
 A little form to create user stories quickly from the right hand panel. hopefully I have fixed that styling a little after I finished this blog post!
 
@@ -62,7 +62,7 @@ Soon as we have a story to work, then things get (relatively) exciting.
 
 4. Estimating
 
-![App Use](./pics/59/4-app-use.png)
+![App Use](https://github.com/neosaurrrus/blog-entries/blob/master/pics/59/4-app-use.png)
 
 Now two new containers have appeared. That allow estimations to happen on a story and see the results. 
 
@@ -135,11 +135,11 @@ The models and controllers mostly align to standard REST practises, with each ac
 
 I used create-react-app to get things going. The component tree is a little like this under the 'catch-all' App container:
 
-![Component Tree](./pics/59/5-components.png)
+![Component Tree](https://github.com/neosaurrrus/blog-entries/blob/master/pics/59/5-components.png)
 
 With a few minor components thrown in at the bottom. How does that relate to reality? Let me deface another screenshot:
 
-![Visual Components](./pics/59/6-visual-components.png)
+![Visual Components](https://github.com/neosaurrrus/blog-entries/blob/master/pics/59/6-visual-components.png)
 
 As you can see a bunch of data needs to flow between these components. For that we have...
 
